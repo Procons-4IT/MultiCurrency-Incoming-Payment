@@ -1,0 +1,67 @@
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\Multi Currency Incoming Payment.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\MultiCurrencyPYMT.Resources.resources
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\Multi Currency Incoming Payment.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.Resources.resources
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.pdb
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.Resources.resources
+E:\InterNational Business Projects\Geroge\DataBest_July2010\MultiCurrency Pymt Add-on\MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.GenerateResource.Cache
+F:\InterNational Business Projects_8.82\George\DataBest_July2010\MultiCurrency Pymt Add-on\Deliveries\20110502_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+F:\InterNational Business Projects_8.82\George\DataBest_July2010\MultiCurrency Pymt Add-on\Deliveries\20110502_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+F:\InterNational Business Projects_8.82\George\DataBest_July2010\MultiCurrency Pymt Add-on\Deliveries\20110502_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.exe
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.xml
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Multiy Currency Incoming payment\20140410_MultiCurrPymt 1.2.2\20110502MultiCurrency Pymt\obj\Debug\Multi Currency Incoming Payment.vbproj.GenerateResource.Cache

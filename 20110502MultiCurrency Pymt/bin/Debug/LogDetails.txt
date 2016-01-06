@@ -1,0 +1,4 @@
+Documents generated are rolled back
+Error occured: Cannot perform transaction in title type account  [JDT1.Account][line: 1] , '100013'  [الرسالة 173-54]
+Document created successfully : Cardcode : C20000   DocNum  --> 72
+Document created successfully : Cardcode : C20000   DocNum  --> 73
